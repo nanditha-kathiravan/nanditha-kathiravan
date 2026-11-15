@@ -30,5 +30,14 @@
   <p></p>
 
   <h2>Git Commit Snake 🐍</h2>
-  <img src="https://github.com/nanditha-kathiravan/nanditha-kathiravan/blob/output/github-contribution-grid-snake.svg" style="width: 100%;">
+  <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  </picture>
+</div>
 </div>
