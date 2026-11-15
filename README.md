@@ -4,7 +4,7 @@
 <div align="center"><h3> I Am A </h3></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/demo/?weight=900&size=50&color=1050E3&center=true&vCenter=true&lines=Data+Analyst;Data+Engineer;Data+Scientist;Pythonista" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=50&pause=1000&color=1050E3&center=true&vCenter=true&width=435&lines=Data+Analyst;Data+Engineer;Data+Scientist;Pythonista" />
 </div>
 
 
