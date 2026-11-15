@@ -1,18 +1,10 @@
-# My Profile 🙋‍♂️
-
-<div style="width: 100%;">
-  <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
-</div>
+# Hi There 🙋‍♂️, I am Nanditha Kathiravan
 
 ##
 <div align="center"><h3> I Am A </h3></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Onest&weight=600&size=40&duration=4000&pause=2000&color=0CAFF7&background=D9F0FF00&center=true&vCenter=true&random=false&width=950&lines=Technologist+%F0%9F%A4%96%F0%9F%98%8E;Data+Scientist+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Night+Owl+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Coffee+addict+%E2%98%95;Pythonista+%F0%9F%90%8D"/>
-  <p></p>
-  <a href="https://www.instagram.com/ankith_m03/"><img src="https://www.citypng.com/public/uploads/preview/-51608566751xc7qlipxbb.png?v=2023082716" width=5% style="padding-right:5px"></a>
-  <a href="https://www.linkedin.com/in/ankithmotha/"><img src="https://openvisualfx.com/wp-content/uploads/2019/10/linkedin-icon-logo-png-transparent.png" width=4% style="padding-right:5px"></a>
-  <a href="https://www.kaggle.com/ankithmotha"><img src="https://images.datacamp.com/image/upload/v1647430873/kaggle_logo_icon_168474_4eb653edb6.png" width=7% style="padding-right:5px"></a>
+  <img src="<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&pause=1000&color=1050E3&width=435&lines=Data+Analyst;Data+Engineer;Applied+ML%2FDL+Engineer;Pythonista" alt="Typing SVG" /></a>"/>
 </div>
 
 
