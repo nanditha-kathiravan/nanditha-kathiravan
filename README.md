@@ -33,11 +33,11 @@
   <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
+      srcset="https://raw.githubusercontent.com/nanditha-kathiravan/nanditha-kathiravan/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+      srcset="https://raw.githubusercontent.com/nanditha-kathiravan/nanditha-kathiravan/output/github-snake.svg" />
     <img alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+      src="https://raw.githubusercontent.com/nanditha-kathiravan/nanditha-kathiravan/output/github-snake.svg" />
   </picture>
 </div>
 </div>
